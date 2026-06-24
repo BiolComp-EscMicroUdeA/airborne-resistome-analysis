@@ -1,2 +1,2 @@
 # airborne-resistome-analysis
-Análisis metagenómico de los genes de resistencia a antibioticos en material particulado 2.5 (PM2.5) en Medellín, Colombia.
+Metagenomic analysis of antibiotic resistance genes in particulate matter 2.5 (PM2.5) in Medellín, Colombia
