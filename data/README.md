@@ -1,12 +1,12 @@
-# Datos
+# Data
 
 ## `raw/`
-Reads de secuenciación de material particulado (PM2.5) recolectado en Medellín durante 18 meses.
-Los archivos no se incluyen en este repositorio por su tamaño.
-Para acceder a ellos contactar a: juan.vargasg1@udea.edu.co
+Sequencing reads from particulate matter (PM2.5) samples collected in Medellín over an 18-month period.
+
+These files are not included in this repository due to their large size.
+To request access to the raw data, please contact: juan.vargasg1@udea.edu.co
 
 ## `metadata/`
-Información asociada a cada muestra.
+Information associated with each sample.
 
-- `Metadata_PM.csv`: tabla con el listado de muestras, fecha de recolección, periodo,
-número de muestra y concentración de PM2.5 (µg/m³).
+- `Metadata_PM.csv`: Table containing the list of samples, data collection, period, number of sample and PM2.5 concentration (µg/m³).
