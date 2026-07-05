@@ -1,12 +1,11 @@
 # Scripts
 
-Pipeline for antimicrobial resistance (AMR) gene identification from metagenomic reads
+Pipeline for antimicrobial resistance gene (ARG) identification from metagenomic reads
 using [RGI (Resistance Gene Identifier)](https://github.com/arpcard/rgi) and the 
 [CARD database](https://card.mcmaster.ca/).
 
 ## Requirements
 - [Conda](https://docs.conda.io/en/latest/) or [Mamba](https://mamba.readthedocs.io/en/latest/)
-- Internet connection (for database download)
 
 ## Installation
 
