@@ -1,0 +1,174 @@
+"Sample","Drug Class","TPM","Percet_abundance"
+"AB1096","aminocoumarin antibiotic",306315.146956335,33.7580159058185
+"AB1096","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic",99730.5129625277,10.9909819228246
+"AB1096","phenicol antibiotic",201496.342516127,22.2062695991763
+"AB1096","rifamycin antibiotic",299842.921521809,33.0447325721806
+"AB1097","aminoglycoside antibiotic",30404.0230436278,3.16123152938237
+"AB1097","macrolide antibiotic",465308.133347936,48.3800035247585
+"AB1097","macrolide antibiotic; streptogramin antibiotic",41187.7159458012,4.28245650532095
+"AB1097","oxazolidinone antibiotic; phenicol antibiotic",41805.5316849883,4.34669335290076
+"AB1097","phenicol antibiotic",254245.88657401,26.4349922278455
+"AB1097","rifamycin antibiotic",128826.509005933,13.3946228597919
+"AB1235","aminoglycoside antibiotic",102844.807168592,10.6137469863508
+"AB1235","macrolide antibiotic",452682.873518066,46.7175895103656
+"AB1235","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic",66745.6430424648,6.88825607434608
+"AB1235","macrolide antibiotic; streptogramin antibiotic",32550.8308433695,3.35929729734119
+"AB1235","oxazolidinone antibiotic; phenicol antibiotic",34695.5248132325,3.5806331118171
+"AB1235","phenicol antibiotic",202280.163098082,20.875633204906
+"AB1235","rifamycin antibiotic",77177.5346936384,7.9648438148732
+"AB1239","aminoglycoside antibiotic",44657.3872910439,5.84923076108791
+"AB1239","lincosamide antibiotic",142400.587766791,18.6516486720117
+"AB1239","macrolide antibiotic; streptogramin antibiotic",87994.8518050126,11.5255778543604
+"AB1239","oxazolidinone antibiotic; phenicol antibiotic",68075.2855046401,8.91651030653645
+"AB1239","phenicol antibiotic",253476.241639216,33.2003531719913
+"AB1239","rifamycin antibiotic",166870.179911976,21.8566792340122
+"AB1285","aminocoumarin antibiotic",92403.5616775146,9.63254804466221
+"AB1285","aminoglycoside antibiotic",60715.3002595723,6.32922623521271
+"AB1285","macrolide antibiotic",323015.640759802,33.6725513855738
+"AB1285","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic",17649.796587085,1.83989134744556
+"AB1285","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic",21318.5745293442,2.22234067247637
+"AB1285","macrolide antibiotic; streptogramin antibiotic",50471.4626542011,5.26136417336032
+"AB1285","oxazolidinone antibiotic; phenicol antibiotic",34707.6792642372,3.61807902165361
+"AB1285","phenicol antibiotic",222164.563290367,23.1593976559521
+"AB1285","rifamycin antibiotic",136838.142414788,14.2646014636633
+"AB1286","aminocoumarin antibiotic",228278.030592019,23.8752425151316
+"AB1286","aminoglycoside antibiotic",52530.1858902555,5.49405005922914
+"AB1286","macrolide antibiotic; streptogramin antibiotic",86588.2185004211,9.05612647125683
+"AB1286","oxazolidinone antibiotic; phenicol antibiotic",62829.2561070129,6.57121371999733
+"AB1286","phenicol antibiotic",299966.328376459,31.3730095611397
+"AB1286","rifamycin antibiotic",225936.616493619,23.6303576732453
+"AB1288","aminocoumarin antibiotic",152070.220388532,15.5977667682041
+"AB1288","aminoglycoside antibiotic",73535.6732484238,7.54251738138649
+"AB1288","lincosamide antibiotic",99405.2588971956,10.1959478972934
+"AB1288","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic",94322.0354308618,9.674564198
+"AB1288","macrolide antibiotic; streptogramin antibiotic",58411.9571985632,5.99128535836735
+"AB1288","oxazolidinone antibiotic; phenicol antibiotic",77725.300973515,7.97224541054704
+"AB1288","phenicol antibiotic",226867.869476563,23.2697243829446
+"AB1288","rifamycin antibiotic",192610.359080765,19.755948603257
+"AB1290","aminoglycoside antibiotic",66782.9228183549,6.67829228183549
+"AB1290","macrolide antibiotic",577856.65241109,57.785665241109
+"AB1290","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic",43510.0860786251,4.35100860786251
+"AB1290","phenicol antibiotic",87908.1330976304,8.79081330976304
+"AB1290","rifamycin antibiotic",223942.2055943,22.39422055943
+"AB1292","aminocoumarin antibiotic",195467.678699467,20.2457654172071
+"AB1292","aminoglycoside antibiotic",60419.8301471041,6.25804591247292
+"AB1292","lincosamide antibiotic",64248.7989749012,6.6546352882365
+"AB1292","macrolide antibiotic; streptogramin antibiotic",98857.2168135235,10.2392376822657
+"AB1292","oxazolidinone antibiotic; phenicol antibiotic",69077.5497108659,7.15477810115044
+"AB1292","phenicol antibiotic",326980.494782979,33.8673403062036
+"AB1292","rifamycin antibiotic",150422.813644242,15.5801972924637
+"AB1293","lincosamide antibiotic",67195.3082577099,6.71953082577099
+"AB1293","macrolide antibiotic",845801.066781095,84.5801066781095
+"AB1293","rifamycin antibiotic",87003.6249611951,8.70036249611951
+"AB1409","aminocoumarin antibiotic",154519.623367903,15.4519623367903
+"AB1409","aminoglycoside antibiotic",37913.9973144222,3.79139973144222
+"AB1409","macrolide antibiotic",391137.298739358,39.1137298739358
+"AB1409","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic",79365.4250002858,7.93654250002858
+"AB1409","macrolide antibiotic; streptogramin antibiotic",25066.2932724337,2.50662932724337
+"AB1409","phenicol antibiotic",166459.145029754,16.6459145029754
+"AB1409","rifamycin antibiotic",145538.217275844,14.5538217275844
+"AB1410","phenicol antibiotic",1e+06,100
+"AB1413","aminoglycoside antibiotic",159332.872350335,18.3442335397939
+"AB1413","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic",469119.033326167,54.0103807730009
+"AB1413","phenicol antibiotic",184088.635748445,21.1944018605676
+"AB1413","rifamycin antibiotic",56031.4379095769,6.45098382663767
+"AB1414","aminocoumarin antibiotic",131202.311201794,13.1202311201794
+"AB1414","macrolide antibiotic",470761.887549168,47.0761887549168
+"AB1414","macrolide antibiotic; streptogramin antibiotic",49207.2209389138,4.92072209389138
+"AB1414","phenicol antibiotic",257139.682146694,25.7139682146694
+"AB1414","rifamycin antibiotic",91688.8981634306,9.16888981634306
+"AB1416","aminocoumarin antibiotic",81207.8969374333,8.12078969374333
+"AB1416","lincosamide antibiotic",40616.3113881732,4.06163113881732
+"AB1416","macrolide antibiotic",309496.915727441,30.9496915727441
+"AB1416","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic",186273.481110723,18.6273481110723
+"AB1416","oxazolidinone antibiotic; phenicol antibiotic",33604.4253139193,3.36044253139193
+"AB1416","phenicol antibiotic",233595.597001624,23.3595597001624
+"AB1416","rifamycin antibiotic",115205.372520686,11.5205372520686
+"AB1515","aminocoumarin antibiotic",134879.168656501,15.4334246688696
+"AB1515","macrolide antibiotic",581712.282324572,66.5618922301964
+"AB1515","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic",28511.0437810489,3.26234993000495
+"AB1515","macrolide antibiotic; streptogramin antibiotic",10695.6928166875,1.22384480132812
+"AB1515","rifamycin antibiotic",118143.737498665,13.518488369601
+"AB1517","aminoglycoside antibiotic",42853.1260741815,4.40470560089013
+"AB1517","macrolide antibiotic",450577.522797507,46.3131052531804
+"AB1517","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic",81629.6919402021,8.39039748618412
+"AB1517","macrolide antibiotic; streptogramin antibiotic",27231.7894757114,2.79904937199422
+"AB1517","phenicol antibiotic",244437.729341505,25.1248003152814
+"AB1517","rifamycin antibiotic",126164.357535407,12.9679419724697
+"AB1519","aminocoumarin antibiotic",105422.185576666,11.702099771429
+"AB1519","aminoglycoside antibiotic",21071.997919395,2.3390391755517
+"AB1519","lincosamide antibiotic",10323.787766715,1.14596366793496
+"AB1519","macrolide antibiotic",446340.567742502,49.5448071692707
+"AB1519","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic",75101.6454771826,8.33645160707992
+"AB1519","phenicol antibiotic",118749.895510505,13.181505557956
+"AB1519","rifamycin antibiotic",123872.561890312,13.7501330507778
+"AB1521","aminocoumarin antibiotic",117387.700750634,12.0177200563496
+"AB1521","aminoglycoside antibiotic",15064.7549296647,1.5422740738982
+"AB1521","macrolide antibiotic",495493.779232078,50.7268264937172
+"AB1521","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic",78747.5825868838,8.06188720446788
+"AB1521","phenicol antibiotic",130279.385743784,13.3375232411095
+"AB1521","rifamycin antibiotic",139815.24082303,14.3137689304576
+"AB1523","aminocoumarin antibiotic",109557.062373958,12.4764698961265
+"AB1523","aminoglycoside antibiotic",35085.0629107061,3.99552271413569
+"AB1523","macrolide antibiotic",362752.454850859,41.3106191844054
+"AB1523","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic",35128.9741283666,4.00052336834612
+"AB1523","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic",44559.9061031696,5.07452751126858
+"AB1523","macrolide antibiotic; streptogramin antibiotic",35074.8962741049,3.99436492720026
+"AB1523","phenicol antibiotic",173740.557631048,19.7857517356659
+"AB1523","rifamycin antibiotic",82210.5452630654,9.3622206628515
+"AB947","aminocoumarin antibiotic",133427.809854214,13.7581353305972
+"AB947","aminoglycoside antibiotic",62266.3112652999,6.4204631542787
+"AB947","macrolide antibiotic",437774.188405115,45.1401888024748
+"AB947","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic",84788.1685314722,8.74275833774121
+"AB947","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic",124254.233657581,12.8122208101031
+"AB947","macrolide antibiotic; streptogramin antibiotic",40488.4388523133,4.17488244514674
+"AB947","rifamycin antibiotic",86811.1227599202,8.95135111965827
+"AB948","aminoglycoside antibiotic",129929.160459069,13.5539648580372
+"AB948","lincosamide antibiotic",63398.1484330902,6.6135752196862
+"AB948","macrolide antibiotic",57709.5933954879,6.02015589179822
+"AB948","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic",189826.223730088,19.8023134797523
+"AB948","macrolide antibiotic; streptogramin antibiotic",52155.1270360889,5.44072444181082
+"AB948","oxazolidinone antibiotic; phenicol antibiotic",41962.6159293411,4.37746091522523
+"AB948","phenicol antibiotic",351382.520557382,36.6555615270342
+"AB948","rifamycin antibiotic",72242.9062550602,7.5362436666558
+"AB977","aminocoumarin antibiotic",150957.400665291,15.3665636722371
+"AB977","aminoglycoside antibiotic",79077.0161587547,8.04956894103054
+"AB977","macrolide antibiotic",483922.53081446,49.2604294285541
+"AB977","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic",50819.8214511675,5.17315493443471
+"AB977","rifamycin antibiotic",217599.016968642,22.1502830237435
+"AB978","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic",329331.636136996,36.9201789498469
+"AB978","phenicol antibiotic",562678.222711105,63.0798210501531
+"AB979","aminocoumarin antibiotic",158752.659189424,15.8752659189424
+"AB979","macrolide antibiotic",390664.269610384,39.0664269610384
+"AB979","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic",36290.8107597792,3.62908107597792
+"AB979","phenicol antibiotic",327789.959090455,32.7789959090455
+"AB979","rifamycin antibiotic",86502.3013499578,8.65023013499578
+"AB980","aminocoumarin antibiotic",149501.28981219,15.8172193103964
+"AB980","aminoglycoside antibiotic",17127.415290644,1.81207857278475
+"AB980","macrolide antibiotic",457081.328308599,48.3591520957894
+"AB980","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic",64377.5225085396,6.81113449560703
+"AB980","phenicol antibiotic",150234.58859729,15.8948022377313
+"AB980","rifamycin antibiotic",106858.464529016,11.3056132876911
+"AB981","aminocoumarin antibiotic",110892.386857438,12.1224932335167
+"AB981","macrolide antibiotic",400804.22831495,43.8149694799084
+"AB981","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic",57165.4552404624,6.24919224828573
+"AB981","macrolide antibiotic; streptogramin antibiotic",25433.2178357878,2.78029916983622
+"AB981","oxazolidinone antibiotic; phenicol antibiotic",30875.9503111997,3.37528580034175
+"AB981","phenicol antibiotic",173246.328636911,18.9388785483762
+"AB981","rifamycin antibiotic",116347.941195858,12.718881519735
+"AB984","aminocoumarin antibiotic",301695.357358477,34.930415182732
+"AB984","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic",221077.038725495,25.596392392856
+"AB984","rifamycin antibiotic",340931.501451207,39.473192424412
+"AB985","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic",191161.515908088,22.973366727904
+"AB985","macrolide antibiotic; streptogramin antibiotic",17264.1763135383,2.07477039414568
+"AB985","phenicol antibiotic",343310.47754922,41.2582912664399
+"AB985","rifamycin antibiotic",280364.402044337,33.6935716115104
+"AB986","aminocoumarin antibiotic",152325.352194365,17.0195145262102
+"AB986","aminoglycoside antibiotic",25517.7513077739,2.85113234798051
+"AB986","lincosamide antibiotic",40579.5549026105,4.53400772873889
+"AB986","macrolide antibiotic",72128.3428699521,8.05899583714886
+"AB986","macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic",106405.882727199,11.8888710294201
+"AB986","macrolide antibiotic; streptogramin antibiotic",38519.0545778853,4.30378528248993
+"AB986","oxazolidinone antibiotic; phenicol antibiotic",29402.0954201724,3.28513529032336
+"AB986","phenicol antibiotic",273943.847676532,30.6081110447558
+"AB986","rifamycin antibiotic",156182.214708177,17.4504469129325
