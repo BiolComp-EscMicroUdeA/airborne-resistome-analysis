@@ -32,12 +32,4 @@ resistome-pm25-18months/
 
 
 
-## Software and versions
 
-| Tool | Version |
-|------|---------|
-| RGI | 6.0.3 |
-| CARD database | 4.0.0 |
-| WildCARD database | 4.0.2 |
-| Aligner | KMA |
-| R | ≥ 4.0 |
