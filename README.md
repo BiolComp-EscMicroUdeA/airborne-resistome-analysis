@@ -29,3 +29,15 @@ resistome-pm25-18months/
     ├── 02_diversity_analysis.R         # Alpha/Beta diversity (vegan) and Wilcoxon tests
     ├── 03_circos_plot.R                # Chord diagram generation for AMR families
     └── 04_core_genes_analysis.R        # Shared and persistent ARGs (UpSet/Venn analysis)
+
+
+
+## Software and versions
+
+| Tool | Version |
+|------|---------|
+| RGI | 6.0.3 |
+| CARD database | 4.0.0 |
+| WildCARD database | 4.0.2 |
+| Aligner | KMA |
+| R | ≥ 4.0 |
