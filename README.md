@@ -1,9 +1,8 @@
-# airborne-resistome-analysis
-# Air Quality Resistome: PM2.5 AMR Dynamics over 18 Months
+# Resistome profile of Particulate Matter (PM2.5) in Medellín, Colombia
 
 This repository contains the bioinformatic and statistical pipeline to analyze the antimicrobial resistance genes (ARGs) profile (resistome) from PM2.5 particulate matter samples collected over an 18-month period in Medellin, Colombia. The project evaluates variations in ARG abundance, diversity, and composition across different climatic periods (PGE vs. NO PGE).
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 resistome-pm25-18months/
@@ -42,4 +41,6 @@ resistome-pm25-18months/
 | Aligner | KMA |
 | R | ≥ 4.0 |
 
+**Computational Biology Research Group**  
+School of Microbiology, Universidad de Antioquia, Colombia
 
